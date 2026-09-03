@@ -1,6 +1,6 @@
 #!/usr/bin/env bash
 #
-# 01_harmonize_sumstats.sh
+# scripts/01_harmonize_sumstats.sh
 #
 # Harmonizes externally sourced GWAS summary statistics (provided in two
 # genome-build versions) into a single file per trait, ready for LD
