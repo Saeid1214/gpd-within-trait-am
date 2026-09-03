@@ -1,0 +1,19 @@
+# Data — never track genotype, phenotype, or summary-statistic data
+*.bed
+*.bim
+*.fam
+*.gz
+*.profile
+*.clumped
+*.log
+data/
+results/*
+!results/.gitkeep
+
+# R
+.Rhistory
+.RData
+.Rproj.user/
+
+# OS
+.DS_Store
