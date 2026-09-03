@@ -1,0 +1,5 @@
+trait_id	label	sumstat_source_id	sample_size
+trait01	Trait A	source_id_01	200000
+trait02	Trait B	source_id_02	150000
+trait03	Trait C	source_id_03	180000
+trait04	Trait D	source_id_04	90000

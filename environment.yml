@@ -1,0 +1,11 @@
+name: gpd-within-trait
+channels:
+  - conda-forge
+  - bioconda
+  - defaults
+dependencies:
+  - r-base>=4.2
+  - r-data.table
+  - r-dplyr
+  - plink=1.90b6.21
+  - python=3.11
